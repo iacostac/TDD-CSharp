@@ -13,15 +13,14 @@ namespace FizzBuzz.Library.Tests
     {
 
         [Test]
-        public void Buzzer_When1_Returns1()
+        public void Buzzer_WhenDefault_ReturnsInput( [Values(1,2,4,7,8)] int input)
         {
-            int input = 1;
 
 
             string output = FizzBuzzer.GetValue(input);
 
 
-            Assert.AreEqual("1", output);
+            Assert.AreEqual(input.ToString(), output);
 
 
         }
@@ -29,15 +28,41 @@ namespace FizzBuzz.Library.Tests
 
 
         [Test]
-        public void Buzzer_When2_Return2()
+        public void Buzzer_WhenDiv3_ReturnFizz([Values(3,6,9)] int input)
         {
-            int input = 2;
+        
 
             string output = FizzBuzzer.GetValue(input);
 
-            Assert.AreEqual("2", output);
+            Assert.AreEqual("Fizz", output);
+
+
 
         }
+
+
+        [Test]
+        public void Buzzer_WhenDiv5_returnsBuzz([Values(5, 10, 20)] int input)
+        {
+           
+
+            string output = FizzBuzzer.GetValue(input);
+
+            Assert.AreEqual("Buzz", output);
+
+        }
+
+
+        [Test]
+
+        public void Buzzer_WhenDiv3AndDiv5_ReturnsFizzBuzz([Values(15,30)] int input)
+        {
+            string output = FizzBuzzer.GetValue(input);
+
+            Assert.AreEqual("FizzBuzz", output);
+
+        }
+
 
     }
 }

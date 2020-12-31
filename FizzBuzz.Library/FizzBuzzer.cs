@@ -10,7 +10,21 @@ namespace FizzBuzz.Library
     {
         public static string GetValue(int input)
         {
-            return input.ToString();
+            string output = string.Empty;
+
+
+            
+            //if (input % 3 == 0 && input % 5 == 0)
+            //    return "FizzBuzz";
+            if (input % 3 == 0)
+                return output+= "Fizz";
+
+            if (input % 5 == 0)
+                return output += "Buzz";
+            if (string.IsNullOrEmpty(output))
+                output = input.ToString();
+
+            return output;
         }
     }
 }
