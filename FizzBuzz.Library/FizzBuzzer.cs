@@ -17,10 +17,9 @@ namespace FizzBuzz.Library
             //if (input % 3 == 0 && input % 5 == 0)
             //    return "FizzBuzz";
             if (input % 3 == 0)
-                return output+= "Fizz";
-
+            output += "Fizz";
             if (input % 5 == 0)
-                return output += "Buzz";
+                output += "Buzz";
             if (string.IsNullOrEmpty(output))
                 output = input.ToString();
 
