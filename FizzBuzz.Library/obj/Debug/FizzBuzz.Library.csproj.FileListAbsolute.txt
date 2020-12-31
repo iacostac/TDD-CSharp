@@ -1,0 +1,5 @@
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.dll
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.pdb
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.dll
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.pdb

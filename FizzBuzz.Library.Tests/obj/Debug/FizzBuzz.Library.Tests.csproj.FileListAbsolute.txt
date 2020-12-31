@@ -1,0 +1,11 @@
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\bin\Debug\FizzBuzz.Library.Tests.dll
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\bin\Debug\FizzBuzz.Library.Tests.pdb
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\bin\Debug\nunit.framework.dll
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\bin\Debug\nunit.framework.xml
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\obj\Debug\FizzBuzz.Library.Tests.csproj.CoreCompileInputs.cache
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\obj\Debug\FizzBuzz.Library.Tests.csproj.CopyComplete
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\obj\Debug\FizzBuzz.Library.Tests.dll
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\obj\Debug\FizzBuzz.Library.Tests.pdb
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\bin\Debug\FizzBuzz.Library.dll
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\bin\Debug\FizzBuzz.Library.pdb
+C:\Desarrollo\TDD\TDD-CSharp\FizzBuzz.Library.Tests\obj\Debug\FizzBuzz.Library.Tests.csprojAssemblyReference.cache
